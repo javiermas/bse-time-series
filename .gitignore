@@ -1,0 +1,6 @@
+.vscode
+mlruns
+.ipynb_checkpoints
+__pycache__
+.git
+.DS_Store
